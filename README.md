@@ -14,15 +14,25 @@ Raw Kickstarter data was obtained regarding a multitude of different crowdfundin
 
 ### Analysis of Outcomes Based on Launch Date
 
-One of the factors that leads to a successful campaign is timing the launch date. Based on the data, it was determined that a start date from April to August where more likely to reach the crowdfunding goal. In Louisa's case, we would recommend a start date between those months mentioned to achieve success.
+One of the factors that leads to a successful campaign is timing the launch date. Based on the data, it was determined that a start date from April to August where more likely to reach the crowdfunding goal as shown in figure 1. In Louisa's case, we would recommend a start date between those months mentioned to achieve success.
+
+![Outcomes](Theater_Outcomes_vs_Launch.png)
+
+*Figure 1. Theater Outcomes Based on Launch Date*
 
 ### Analysis of Outcomes Based on Goals
 
 Another factor to consider is the crowdfunding goal amount. Based on the data, it shows that an amount ranging from $15,000 and below gave a successful results. Looking at the range closer, we can determine that the lower the goal amount from $15,000 the better the chance of successfully crowdfunding the campaign. The data also shows a successful range of between $35,000 to $44,999. Although the data shows a favorable chance of succeeding in this higher range, we would not recommend setting a goal this high without futher analysis in this range. Therefore, we would recommend Louisa consider a goal range of between $1,000 to $10,000 for a successful campaign.
 
+![O)utcome](Outcomes_vs_Goals.png)
+
+*Figure 2. Outcome Based on Goal*
+
 ### Challenges and Difficulties Encountered
 
 Part of the challenges and difficulties where sorting through all the Kickstarter data. In the raw data, many categories not related to theater where present during the sorting phase of the project. Although not a road block, it did provide a challenge with drilling down to the data we wanted. Another challenge encounted was converting dates from UNIX time to human readable time. Formulas to convert were required, but was not difficult to implement.
+
+Link to raw data: [Kickstarter_Challenge-JPINPIN.xlsx](Kickstarter_Challenge-JPINPIN.xlsx)
 
 ## Results
 
